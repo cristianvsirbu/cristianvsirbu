@@ -1,4 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&pause=1000&color=3DDA8C&vCenter=true&width=470&height=30&lines=Hello+World!+I'm+Cristian.;I'm+a+Front-End+Developer.;Welcome+to+my+profile!+)
+
+
 *Welcome to my GitHub profile!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 *I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications using React and crafting beautiful UI's.*   
 
