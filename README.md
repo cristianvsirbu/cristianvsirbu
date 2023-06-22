@@ -3,7 +3,7 @@
 *Welcome to my GitHub profile!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <br>
 *I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications using React and crafting beautiful UI's.*   
 
-
+---
  ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Front-End Skills:<img align="right" width="240px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
  
 :white_check_mark: Strong proficiency in HTML, CSS, and JavaScript. <br>
@@ -24,7 +24,7 @@
 🤝 Collaboration and teamwork mindset.<br>
 🌱 Continuous learning and staying up-to-date with the latest trends. <br> 
 
----
+
 ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Toolset  :hammer_and_wrench: 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,git,github,stackoverflow,vscode,figma" />
