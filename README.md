@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&pause=1000&color=3DDA8C&vCenter=true&width=470&height=30&lines=Hello+World!+I'm+Cristian.;I'm+a+Front-End+Developer.;Welcome+to+my+profile!+)<br>
 
 *Welcome to my GitHub profile!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <br>
-*I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications using React and crafting beautiful UI's.*   
+*I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications and crafting beautiful UI's using React.*   
 
 ---
  ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Front-End Skills:<img align="right" width="240px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
