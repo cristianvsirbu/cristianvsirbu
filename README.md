@@ -5,7 +5,7 @@
 *I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications using React and crafting beautiful UI's.*   
 
 
- ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Front-End Skills:<img align="right" width="270px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
+ ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Front-End Skills:<img align="right" width="200px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
 :white_check_mark: Strong proficiency in HTML, CSS, and JavaScript. 
 :white_check_mark: Experience with modern Front-End frameworks like React.
 :white_check_mark: Responsive web design and mobile-first development.
