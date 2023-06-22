@@ -1,26 +1,26 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&pause=1000&color=3DDA8C&vCenter=true&width=470&height=30&lines=Hello+World!+I'm+Cristian.;I'm+a+Front-End+Developer.;Welcome+to+my+profile!+)
 
 
-*Welcome to my GitHub profile!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+*Welcome to my GitHub profile!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <br>
 *I'm a passionate front-end developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications using React and crafting beautiful UI's.*   
 
 
  ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">Front-End Skills:<img align="right" width="100px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
  
-:white_check_mark: Strong proficiency in HTML, CSS, and JavaScript. 
-:white_check_mark: Experience with modern Front-End frameworks like React.
-:white_check_mark: Responsive web design and mobile-first development.
-:white_check_mark: CSS frameworks, including Tailwind CSS and Bootstrap.
-:white_check_mark: UI/UX principles and best practices.
-:white_check_mark: Investigation and debugging skills.
+:white_check_mark: Strong proficiency in HTML, CSS, and JavaScript. <br>
+:white_check_mark: Experience with modern Front-End frameworks like React.<br>
+:white_check_mark: Responsive web design and mobile-first development.<br>
+:white_check_mark: CSS frameworks, including Tailwind CSS and Bootstrap.<br>
+:white_check_mark: UI/UX principles and best practices.<br>
+:white_check_mark: Investigation and debugging skills.<br>
 
 ---
  ###  <img align="left" width="25px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">What I bring to the table: <img align="right" src="https://i.giphy.com/media/hcweAwJvLsIt1ECc2n/giphy.webp" width="240">
  
-✨ Clean and well-structured code.
-👁️ Attention to detail and pixel-perfect designs.
-🤝 Collaboration and teamwork mindset.
-🌱 Continuous learning and staying up-to-date with the latest trends. 
+✨ Clean and well-structured code.<br>
+👁️ Attention to detail and pixel-perfect designs.<br>
+🤝 Collaboration and teamwork mindset.<br>
+🌱 Continuous learning and staying up-to-date with the latest trends. <br>
 
 
 ---
