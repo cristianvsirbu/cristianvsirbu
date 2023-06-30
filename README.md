@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&pause=1000&color=3DDA8C&vCenter=true&width=470&height=30&lines=Hello+World!+I'm+Cristian.;I'm+a+Front-End+Developer.;Welcome+to+my+profile!+)<br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&duration=4000&pause=1000&color=3DDA8C&vCenter=true&width=470&lines=Hello+World!+I'm+Cristian.;I'm+a+web+developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)<br>
 *Welcome to my GitHub profile!* <img src="hand.gif" width="20"> <br>
 *I'm a passionate web developer based in Bucharest. With a focus on creating engaging and intuitive user experiences, I specialize in building dynamic web applications and crafting beautiful UI's using mainly React.*   
 
