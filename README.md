@@ -26,7 +26,7 @@
 
 ###  <img align="left" width="25px" src="github.gif">Toolset  :hammer_and_wrench: 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,git,github,stackoverflow,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,git,github,stackoverflow,vscode,figma,ai" />
     
 ---
     
