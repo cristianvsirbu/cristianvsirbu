@@ -26,14 +26,14 @@
 
 ###  <img align="left" width="25px" src="github.gif">Toolset  :hammer_and_wrench: 
 <a href="https://skillicons.dev">
-    <img width=100% src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,nodejs,react,vite,git,github,stackoverflow,figma,ai" />
+    <img width=100% src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,express,react,vite,git,threejs,figma,ai" />
     
 ---
     
 ###  <img align="left" width="25px" src="github.gif">Let's Connect :blush:
 <div>
   <a href="https://www.linkedin.com/in/cristianvsirbu"><img src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp<a href="mailto:cristiansirbu4@gmail.com"><img width="62px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>&nbsp
- <a href="https://www.instagram.com/cristian_sirbu"><img src="https://skillicons.dev/icons?i=instagram"/></a> 
+  <a href="https://www.facebook.com/cristianvsirbu"><img width="47px" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20140221023021%21Facebook_icon.svg"/></a> 
 </div>
 <br>
 
