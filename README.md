@@ -11,9 +11,9 @@
 :white_check_mark: CSS frameworks, including Tailwind CSS and Bootstrap.<br>
 :white_check_mark: UI/UX principles and best practices.<br>
 :white_check_mark: Investigation and debugging skills.<br>
-:white_check_mark: Efficient use of version control systems like Git for collaborative development<br>
-:white_check_mark: Performance optimization techniques to improve website speed and loading times<br>
-:white_check_mark: Accessibility standards and practices for creating inclusive web experiences<br>
+:white_check_mark: Efficient use of version control systems like Git for collaborative development.<br>
+:white_check_mark: Performance optimization techniques to improve website speed and loading times.<br>
+:white_check_mark: Accessibility standards and practices for creating inclusive web experiences.<br>
 <hr>
 
 ### <img align="left" width="25px" src="github.gif">What I bring to the table: <img align="right" src="excuse.webp" width="240">
@@ -26,7 +26,7 @@
 
 ###  <img align="left" width="25px" src="github.gif">Toolset  :hammer_and_wrench: 
 <a href="https://skillicons.dev">
-    <img width=100% src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,express,react,vite,git,threejs,figma,ai" />
+    <img width=100% src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,express,react,vite,git,threejs,figma,ai,docker,nextjs,supabase,sentry,npm,yarn&perline=10" />
     
 ---
     
