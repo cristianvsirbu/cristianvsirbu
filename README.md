@@ -5,8 +5,8 @@
 ---
  ###  <img align="left" width="25px" src="github.gif">Front-End Skills:<img align="right" width="240px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
  
-:white_check_mark: Strong proficiency in HTML, CSS, and JavaScript. <br>
-:white_check_mark: Experience with modern Front-End frameworks like React.<br>
+:white_check_mark: Strong proficiency in HTML, CSS, and JavaScript (with Typescript). <br>
+:white_check_mark: Experience with modern Front-End frameworks like React and NextJS.<br>
 :white_check_mark: Responsive web design and mobile-first development.<br>
 :white_check_mark: CSS frameworks, including Tailwind CSS and Bootstrap.<br>
 :white_check_mark: UI/UX principles and best practices.<br>
