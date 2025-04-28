@@ -32,7 +32,7 @@
     
 ###  <img align="left" width="25px" src="github.gif">Let's Connect :blush:
 <div>
-  <a href="https://www.linkedin.com/in/cristianvsirbu"><img src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp<a href="mailto:cristiansirbu4@gmail.com"><img width="62px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="62px" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp<a href="mailto:cristiansirbu4@gmail.com"><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 </div>
 <br>
 
