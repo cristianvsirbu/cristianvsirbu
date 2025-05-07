@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=900&size=30&duration=4000&pause=1000&color=3DDA8C&vCenter=true&width=470&lines=Hello+World!+I'm+Cristian.;I'm+a+front-end+developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)<br>
 *Welcome to my GitHub profile!* <img src="hand.gif" width="20"> <br>
-*I'm a passionate front-end developer based in Bucharest. With 4+ years of experience, i focus on creating engaging and intuitive user experiences, building dynamic web applications and crafting beautiful UI's using mainly React and NextJS.*   
+*I'm a passionate front-end developer based in Bucharest. With 4+ years of experience, i focus on creating engaging and intuitive UX, building dynamic web applications and crafting beautiful UIs using mainly React and NextJS.*   
 
 ---
  ###  <img align="left" width="25px" src="github.gif">Front-End Skills:<img align="right" width="240px" src="https://i.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.webp">
