@@ -32,8 +32,10 @@
     
 ###  <img align="left" width="25px" src="github.gif">Let's Connect :blush:
 <div>
-  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="62px" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp<a href="mailto:cristiansirbudev@gmail.com"><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="70" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp
+  <a href="mailto:cristiansirbudev@gmail.com"><img width="70" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
 </div>
 <br>
+
 
 *Feel free to explore my repositories to see some of my projects. Don't hesitate to reach out if you have any questions or want to collaborate on something cool. Let's create beautiful digital experiences together! 🚀*✨
