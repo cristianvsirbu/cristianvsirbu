@@ -34,6 +34,7 @@
 <div>
   <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="70" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp
   <a href="mailto:cristiansirbudev@gmail.com"><img width="70" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
+  <a href="https://www.cristiansirbu.eu/"><img width="70" src="https://github.com/user-attachments/assets/99c7f5af-32d4-45e5-a747-ff08f0bda5ff" /></a>
 </div>
 <br>
 
