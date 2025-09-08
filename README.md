@@ -32,9 +32,9 @@
     
 ###  <img align="left" width="25px" src="github.gif">Let's Connect :blush:
 <div>
-  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="85" src="https://github.com/user-attachments/assets/5544d66f-594d-4f64-b766-5f884b534730"/></a> &nbsp
-  <a href="mailto:cristiansirbudev@gmail.com"><img width="85" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
-  <a href="https://www.cristiansirbu.eu/"><img width="85"  src="https://github.com/user-attachments/assets/c861c921-7635-4bc9-b7e4-79e5e58f537c" /></a>
+  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="80" src="https://github.com/user-attachments/assets/5544d66f-594d-4f64-b766-5f884b534730"/></a> &nbsp
+  <a href="mailto:cristiansirbudev@gmail.com"><img width="80" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
+  <a href="https://www.cristiansirbu.eu/"><img width="80"  src="https://github.com/user-attachments/assets/c861c921-7635-4bc9-b7e4-79e5e58f537c" /></a>
 </div>
 <br>
 
