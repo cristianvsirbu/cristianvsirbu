@@ -34,8 +34,9 @@
 <div>
   <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="90" src="https://github.com/user-attachments/assets/5544d66f-594d-4f64-b766-5f884b534730"/></a> &nbsp
   <a href="mailto:cristiansirbudev@gmail.com"><img width="90" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
-  <a href="https://www.cristiansirbu.eu/"><img width="90"  src="https://github.com/user-attachments/assets/b67ad438-5017-4bf6-a789-fc16645e6704" /></a>
+  <a href="https://www.cristiansirbu.eu/"><img width="90"  src="https://github.com/user-attachments/assets/c861c921-7635-4bc9-b7e4-79e5e58f537c" /></a>
 </div>
 <br>
+
 
 *Feel free to explore my repositories to see some of my projects. Don't hesitate to reach out if you have any questions or want to collaborate on something cool. Let's create beautiful digital experiences together! 🚀*✨
