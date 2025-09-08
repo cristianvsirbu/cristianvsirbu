@@ -32,11 +32,10 @@
     
 ###  <img align="left" width="25px" src="github.gif">Let's Connect :blush:
 <div>
-  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="70" src="https://github.com/user-attachments/assets/5544d66f-594d-4f64-b766-5f884b534730"/></a> &nbsp
-  <a href="mailto:cristiansirbudev@gmail.com"><img width="70" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
-  <a href="https://www.cristiansirbu.eu/"><img width="70" src="https://github.com/user-attachments/assets/99c7f5af-32d4-45e5-a747-ff08f0bda5ff" /></a>
+  <a href="https://www.linkedin.com/in/cristianvsirbu"><img width="90" src="https://github.com/user-attachments/assets/5544d66f-594d-4f64-b766-5f884b534730"/></a> &nbsp
+  <a href="mailto:cristiansirbudev@gmail.com"><img width="90" src="https://github.com/user-attachments/assets/97be5ce6-5012-41a7-bd93-c76967b75674" /></a> &nbsp
+  <a href="https://www.cristiansirbu.eu/"><img width="90"  src="https://github.com/user-attachments/assets/b67ad438-5017-4bf6-a789-fc16645e6704" /></a>
 </div>
 <br>
-
 
 *Feel free to explore my repositories to see some of my projects. Don't hesitate to reach out if you have any questions or want to collaborate on something cool. Let's create beautiful digital experiences together! 🚀*✨
